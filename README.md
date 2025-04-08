@@ -15,6 +15,8 @@ A comprehensive web application for managing medical inventory, designed specifi
 - **Sales Tracking**: Record and manage sales transactions
 - **Reports**: Generate detailed reports on inventory, sales, and revenue
 - **Alerts System**: Get notified about low stock and expiring medicines
+  - Export alerts to Excel for ordering
+  - Quickly add stock directly from the alerts page
 - **Dark Mode**: Eye-friendly dark theme for comfortable usage
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 
